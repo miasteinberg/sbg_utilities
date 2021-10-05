@@ -1,3 +1,3 @@
 # sbg_utilities
 
-Note that conda environments or any changes altogether are not saved between sessions. 
+Note that conda environments, ubuntu packages and installations are not saved between sessions. 
