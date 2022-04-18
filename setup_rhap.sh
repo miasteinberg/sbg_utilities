@@ -7,7 +7,8 @@ pip install -U pip
 pip install cwlref-runner
 
 # download the pipeline
-wget https://bitbucket.org/CRSwDev/cwl/get/eba54645ed1f.zip -O rhap.zip
+# this link is for v1.10.1
+wget https://bitbucket.org/CRSwDev/cwl/get/fe2db663942b.zip -O rhap.zip
 unzip rhap.zip
 rm rhap.zip
 
